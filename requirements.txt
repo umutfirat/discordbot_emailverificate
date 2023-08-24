@@ -1,0 +1,11 @@
+discord
+dotenv
+email.mime.multiplart
+email.mime.text
+email
+requests
+joblib
+transformers
+numpy
+scikit_learn
+Sinkaf
